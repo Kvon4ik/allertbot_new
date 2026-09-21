@@ -11,7 +11,7 @@ from aiogram.filters import Command
 from aiogram.enums import ChatMemberStatus
 
 # --- НАЛАШТУВАННЯ ---
-TG_BOT_TOKEN = os.getenv("TG_BOT_TOKEN", "8874808047:AAHLWZhRV2YNuTUOAcic_dJRJcbhn-WsHas")
+TG_BOT_TOKEN = os.getenv("TG_BOT_TOKEN", "8874808047:AAFiKnVwq4RL48l0BOByre54v7wlee0DsfA")
 TARGET_CHAT_ID = int(os.getenv("TARGET_CHAT_ID", "-1003041243074"))
 MESSAGE_THREAD_ID = int(os.getenv("MESSAGE_THREAD_ID", "5581"))
 
